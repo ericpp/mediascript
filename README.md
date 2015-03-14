@@ -7,6 +7,6 @@ All software is distributed under the GNU General Public License v2.0.
 [mediascript-master.zip](https://github.com/ericpp/mediascript/archive/master.zip)
 
 ### Todo ###
-Web-based configuration
-Stronger security
-Database integration (MySQL)
+* Web-based configuration
+* Stronger security
+* Database integration (MySQL)
